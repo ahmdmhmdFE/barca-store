@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "keyring",
+        "price": 5.87,
+        "image": { "fields": { "file": { "url": "./images/product1.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "sweatshirt",
+        "price": 80.50,
+        "image": { "fields": { "file": { "url": "./images/product2.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "jacket",
+        "price": 100.40,
+        "image": { "fields": { "file": { "url": "./images/product3.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "cap white",
+        "price": 20.66,
+        "image": { "fields": { "file": { "url": "./images/product4.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "ball",
+        "price": 15.68,
+        "image": { "fields": { "file": { "url": "./images/product5.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "backpacks",
+        "price": 60.77,
+        "image": { "fields": { "file": { "url": "./images/product6.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "bottle",
+        "price": 9.22,
+        "image": { "fields": { "file": { "url": "./images/product7.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "cup",
+        "price": 8.99,
+        "image": { "fields": { "file": { "url": "./images/product8.webp" } } }
+      }
+    }
+  ]
+}
